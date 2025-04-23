@@ -94,6 +94,7 @@ The bot will now be active and ready to interact with users in Discord.
 ### 3. Additional Features:
 
 #### File Upload Feature:
+- Users can upload large files now by using the `!upload` command in Discord.
 - The Flask app provides a file upload form. Users can upload files to **Google Drive**.
 - After uploading, a **shareable link** for the uploaded file is sent to the Discord channel.
 
@@ -102,6 +103,7 @@ The bot will now be active and ready to interact with users in Discord.
 - A private ticketing channel is created, where users can interact with the support team.
 
 #### Role Management:
+- Users can request roles by using `!roles` command in Discord.
 - Users can request roles by reacting to a message in Discord with specific emojis.
 - Admins can approve or deny role requests through a simple button interface.
 
